@@ -4,7 +4,8 @@
 This is a image to run the [PHP CodeSniffer Tools](https://github.com/squizlabs/PHP_CodeSniffer).
 
 ## Supported tags and respective Dockerfile links
-* `3.3`, `latest` [(3.3/Dockerfile)](https://github.com/finalgene/docker-hub-phpcs/blob/master/3.3/Dockerfile)
+* `3.4`, `latest` [(3.4/Dockerfile)](https://github.com/finalgene/docker-hub-phpcs/blob/master/3.4/Dockerfile)
+* `3.3` [(3.3/Dockerfile)](https://github.com/finalgene/docker-hub-phpcs/blob/master/3.3/Dockerfile)
 
 ## How to use this image
 Run the `phpcs` image:

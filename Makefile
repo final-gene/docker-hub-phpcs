@@ -1,6 +1,6 @@
 NAME = phpcs
 
-VERSIONS = 3.3
+VERSIONS = 3.3 3.4
 
 .PHONY: build
 build: ${VERSIONS}
