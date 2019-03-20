@@ -1,8 +1,8 @@
-FROM php:7.2-cli-alpine3.7
+FROM php:7.2-cli-alpine3.8
 
 LABEL maintainer="frank.giesecke@final-gene.de"
 
-ENV PHPCS_VERSION=3.3.2
+ENV PHPCS_VERSION=3.4.0
 
 RUN curl -LSs -o /usr/local/bin/phpcs "https://github.com/squizlabs/PHP_CodeSniffer/releases/download/${PHPCS_VERSION}/phpcs.phar" \
     && chmod a+x /usr/local/bin/phpcs
