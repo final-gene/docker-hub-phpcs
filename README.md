@@ -1,6 +1,8 @@
 # PHP CodeSniffer Tools
 
-This is a image to run the [PHP CodeSniffer Tools](https://github.com/squizlabs/PHP_CodeSniffer).
+[![Docker build and publish](https://github.com/final-gene/docker-hub-phpcs/actions/workflows/publish.yml/badge.svg)](https://github.com/final-gene/docker-hub-phpcs/actions/workflows/publish.yml)
+
+This is an image to run the [PHP CodeSniffer Tools](https://github.com/squizlabs/PHP_CodeSniffer).
 
 ## How to use this image
 Run the `phpcs` image:
